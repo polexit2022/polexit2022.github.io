@@ -1,12 +1,7 @@
+
+##**Polexit**
+
 ![unia][unia]
-![korwer][korwer]
-![plan][plan]
 
 
-```
-  2919487243kb/s download predkosc
-```
-
-[korwer]: https://raw.githubusercontent.com/polexit2022/polexit2022.github.io/main/dow.gif
-[plan]: https://i.ytimg.com/vi/9QyMjhSSZnk/maxresdefault.jpg
-[unia]: https://raw.githubusercontent.com/polexit2022/polexit2022.github.io/main/cooltext399673713212911.png
+[unia]: https://st2.depositphotos.com/1482106/5408/i/950/depositphotos_54089785-stock-photo-poland-and-european-union-flag.jpg
