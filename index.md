@@ -1,11 +1,9 @@
 ## Welcome to Hell
+![korwer][korwer]
 
-[proof korwin is god](https://i.ytimg.com/vi/R7g1f3otgaw/maxresdefault.jpg)
-
-
-### Sussy
-
-```java
-  public static AmogusObject amogus;
 
 ```
+  kup teraz
+```
+
+[korwer]: https://raw.githubusercontent.com/polexit2022/polexit2022.github.io/main/dow.gif
