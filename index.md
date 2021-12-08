@@ -1,4 +1,3 @@
-## Unia upadnie
 ![unia][unia]
 ![korwer][korwer]
 ![plan][plan]
